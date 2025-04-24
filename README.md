@@ -12,7 +12,9 @@ LinguaLive is a cutting-edge platform designed to bridge communication gaps thro
 
 
 ### After Translation
-![After Translation](./83fc4508-0e35-4043-bae5-c2e8f3c3cb07.jpg)
+![After Translation]
+![WhatsApp Image 2025-04-22 at 11 22 07_da2d99a2](https://github.com/user-attachments/assets/f994a993-2517-4f0e-a4fa-c9c34f42956d)
+
 
 ---
 
