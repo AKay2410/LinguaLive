@@ -64,12 +64,3 @@ LinguaLive is optimized for high performance:
 
 ---
 
-## 🛠 Getting Started
-
-Clone the repository and begin development:
-
-```bash
-git clone https://github.com/your-username/lingualive.git
-cd lingualive
-npm install
-npm run dev
