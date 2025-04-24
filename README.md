@@ -1,2 +1,71 @@
-# LinguaLive
-AI Powered Language Translation 
+# 🌐 LinguaLive: Real-Time Translation and Speech Interaction Platform
+
+LinguaLive is a cutting-edge platform designed to bridge communication gaps through real-time speech recognition and translation. This project leverages advanced AI and modern web technologies to provide users with seamless, interactive language translation experiences.
+
+---
+
+## 📸 Interface Overview
+
+### Default Interface (Idle State)
+![Idle State](./d840e72b-9dba-4514-903f-14dd1145818a.jpg)
+
+### After Translation
+![After Translation](./83fc4508-0e35-4043-bae5-c2e8f3c3cb07.jpg)
+
+---
+
+## ⚙️ Core Features
+
+### 🎙 Real-Time Speech Recognition
+- **Live Transcription**: Converts spoken words into text in real time.
+- **Language Detection**: Auto-detects the spoken language for ease of use.
+
+### 🌍 AI-Powered Translation
+- **Instantaneous Translation**: Transcribes and translates speech instantly.
+- **Contextual Understanding**: Translations preserve context, tone, and meaning.
+- **Translation Quality Score**: AI-generated scoring to evaluate translation fidelity.
+
+### 🖥 User Interface
+- **Responsive Design**: Works seamlessly across devices.
+- **Intuitive Interaction**: User-friendly interface with voice and text input.
+- **Customizable Languages**: Users select preferred input and output languages.
+
+---
+
+## 🎨 Style Guidelines
+
+- **Typography**: Clean and modern for readability.
+- **Primary Color**: Neutral background (white/light gray).
+- **Accent Colors**:
+  - Blue (#3498db) for interactive elements.
+  - Green (#2ecc71) for success/confirmation states.
+- **Layout**: Minimalist and well-spaced UI for focus and clarity.
+
+---
+
+## 🚀 Performance
+
+LinguaLive is optimized for high performance:
+- **Fast Load Times**: Lightweight and efficient architecture.
+- **Real-Time Responsiveness**: Instant interaction with minimal delay.
+- **Scalable Infrastructure**: Handles high volumes with ease.
+
+---
+
+## 🆕 What's New
+
+- 🔄 **Real-Time Translation Flow**: Continuous input-output translation.
+- 📊 **Translation Quality Score**: Evaluates and displays the translation's accuracy.
+- 🗣 **Speech-to-Text Integration**: Converts live voice into editable text using AI.
+
+---
+
+## 🛠 Getting Started
+
+Clone the repository and begin development:
+
+```bash
+git clone https://github.com/your-username/lingualive.git
+cd lingualive
+npm install
+npm run dev
