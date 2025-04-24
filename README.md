@@ -7,7 +7,9 @@ LinguaLive is a cutting-edge platform designed to bridge communication gaps thro
 ## 📸 Interface Overview
 
 ### Default Interface (Idle State)
-![Idle State](./d840e72b-9dba-4514-903f-14dd1145818a.jpg)
+![Idle State]
+![WhatsApp Image 2025-04-22 at 11 19 56_4f10fd0a](https://github.com/user-attachments/assets/12008d8e-e506-4980-963d-75983db13e23)
+
 
 ### After Translation
 ![After Translation](./83fc4508-0e35-4043-bae5-c2e8f3c3cb07.jpg)
